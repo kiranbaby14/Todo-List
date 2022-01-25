@@ -1,6 +1,6 @@
 import React from 'react';
 
-//React functional components to display the already existing items
+//React functional component to display the already existing items
 let TodoItems = (props) => {
 
     let checkMark = (id) => {
